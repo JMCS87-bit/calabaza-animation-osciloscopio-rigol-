@@ -192,6 +192,14 @@ El resultado es un dibujo vectorial que se reproduce continuamente en la pantall
 
 
 
+## 🎃 Resultado del proyecto
+
+![Calabaza Halloween dibujada en Rigol DHO804](imagenes/calabaza-rigol1.jpg)
+
+![Calabaza Halloween dibujada en Rigol DHO804](imagenes/calabaza-rigol2.jpg)
+
+
+
 \##  Consideraciones
 
 
